@@ -22,8 +22,7 @@ header img {
 	float: left;
 }
 .shadow {
-	color:#800000
-	text-shadow: 4px 4px;
+	text-shadow: 4px 4px #800000;
 }
 /* the styles for the main content */
 main {
